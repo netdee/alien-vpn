@@ -4,11 +4,7 @@
 "message": "เทสอัพเดท 1",
 "fileUrl": "https://raw.githubusercontent.com/netdee/alien-vpn/refs/heads/main/config.json",
 
-"messageWarning":"Support protocol 
-- OVPN 
-- SSH 
-- V2ray 
-- DNSTT",
+"messageWarning":"รองรับการใช้งาน OpenVPN SSH V2ray SlowDNS",
 "title":"Can't use continue current version, you need to upgrade V1",
 "link":"https://play.google.com/store/apps/details?id=jame.alienvpn.th",
 "website":"https://play.google.com/store/apps/details?id=jame.alienvpn.th",
