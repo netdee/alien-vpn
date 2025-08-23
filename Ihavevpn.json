@@ -6,9 +6,9 @@
 "fileUrl": "https://i-have.xyz/config/ihavevpn.json",
 
 "messageWarning":"มีการอัพเดทระบบดังต่อไปนี้?\n• อัพเดทระบบ UI \n• แก้ไขระบบเซิร์ฟเวอร์ \n• แก้ไขบัคในแอพ \n ขอบคุณสำหรับความเข้าใจของคุณ ❤️",
-"title":"ไม่สามารถใช้เวอร์ชันปัจจุบันต่อได้ คุณต้องทำการอัพเกรด V1.0.6 ",
+"title":"ไม่สามารถใช้เวอร์ชันปัจจุบันต่อได้ คุณต้องทำการอัพเกรด V1.0.7 ",
 "link":"https://play.google.com/store/apps/details?id=ihave.pro.net",
 "website":"https://play.google.com/store/apps/details?id=ihave.pro.net",
-"versionCode": 6
+"versionCode": 7
   
 }
